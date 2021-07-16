@@ -1,1 +1,1 @@
-THis is Sonia's first Git project
+This is Sonia's first Git project
